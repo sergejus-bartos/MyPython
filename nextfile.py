@@ -17,3 +17,5 @@ print(cat_index)
 for animal in animals:
     print(animal.upper())
     
+    
+    
