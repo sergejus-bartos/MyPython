@@ -13,3 +13,7 @@ my_file.close()
 with  open(my_current) as my_filename:
     for my_line in my_filename:
         print(my_line.rstrip())
+        
+        
+        
+        
